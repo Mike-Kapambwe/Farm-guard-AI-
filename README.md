@@ -27,7 +27,8 @@ FarmGuard AI gives every farmer instant access to expert-level disease diagnosis
 Mid-scale farmers across Africa and developing regions with limited access to veterinary and agricultural expertise.
 
 ## 🏆 Hackathon
-Built for the **USAII Global AI Hackathon 2026**
+Built for the **USAII Global AI Hackathon 2026** 
+https://farmguard-ai-910342905333.europe-west2.run.app
 Track: Undergraduate — Public Services: Fix Systems People Depend On
 
 ## 👨‍💻 Developer
